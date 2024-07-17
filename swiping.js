@@ -1,13 +1,13 @@
 (function() {
     console.log('start');
     const firebaseConfig = {
-        apiKey: "AIzaSyD11D5kJMFKiykjIbI0tYFQDsHOx8d_m4M",
+        apiKey: "id",
         authDomain: "envhack24.firebaseapp.com",
         projectId: "envhack24",
         storageBucket: "envhack24.appspot.com",
-        messagingSenderId: "300916206733",
-        appId: "1:300916206733:web:3beaadb1eb5dd67bb846c4",
-        measurementId: "G-JTPCPH03NM"
+        messagingSenderId: id,
+        appId: id,
+        measurementId: id
     };
 
     firebase.initializeApp(firebaseConfig);    
